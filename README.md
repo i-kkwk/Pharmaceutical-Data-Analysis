@@ -74,10 +74,6 @@ Here are some final considerations:
 
 * Get help when you need it! There is never any shame in asking. But, as always, ask a _specific_ question. You'll never get a great answer to "I'm lost."
 
-## Rubric
-
-[Unit 5 Rubric - Matplotlib Homework - The Power of Plots](https://docs.google.com/document/d/1ZZ0lFGHqKwVdqjTCfynY2FSiswuOMBVi9An7oWeg344/edit?usp=sharing)
-
 - - -
 
 ## References
