@@ -38,13 +38,24 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 ![Ceftamin](Images/ceftamin.png)
 
 * Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
+
 ![TumorTime](Images/tumor_time.png)
 
+
+
 * Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
+
 ![CapomulinScatter](Images/capomulin_scatter.png)
 
+
+
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+
 ![CorrelationScaatter](Images/correlation_scatter.png)
+
+
+
+
 - - -
 
 ## References
